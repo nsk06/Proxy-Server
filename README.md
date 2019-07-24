@@ -3,7 +3,7 @@
 A multithreaded HTTP proxy server, which can handle and serve many requests, using sockets.
 
 ### Features
-##For All detailing refer [Report.pdf](https://github.com/nsk06/Proxy-Server/blob/master/README.pdf)
+## For All detailing refer [Report.pdf](https://github.com/nsk06/Proxy-Server/blob/master/README.pdf)
 - Threaded Proxy server
 - The proxy must keep count of the requests that are made. If a URL is
 requested more than 3 times in 5 minutes, the response from the server
